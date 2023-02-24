@@ -7,5 +7,6 @@ public class gittest {
         System.out.println("你好2");
         System.out.println("你好3");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 }
